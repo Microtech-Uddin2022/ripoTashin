@@ -1,2 +1,3 @@
-System.err.println("error message")
-System.out.println("Right message")
+System.err.println("error message");
+
+System.out.println("Right message");
